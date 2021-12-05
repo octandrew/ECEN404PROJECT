@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">@color/ColorPrimaryDark</color>
+    <color name="teal_200">#4C1E13</color> // color for Play button
+    <color name="teal_700">#069392</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tab_indicator">#FF000000</color>
+    <color name="ColorPrimary">#1B1A1C</color>
+    <color name="ColorPrimaryDark">#151515</color>
+    <color name="ColorAccent">#FFFFFF</color>
+</resources>
